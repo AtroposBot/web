@@ -17,6 +17,8 @@ nav:
 theme:
   name: 'material'
   language: 'en'
+  logo:
+    icon: "home"
   palette:
     scheme: 'slate'
     primary: 'purple'
