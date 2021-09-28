@@ -1,0 +1,37 @@
+site_name: Eris
+site_url: https://eris.laarryy.dev
+
+nav:
+  - Home: index.md
+  - Features: features.md
+  - Commands:
+      - General Commands: general-commands.md
+      - Punishment Commands: punishment-commands.md
+      - Raid Commands: raid-commands.md
+      - Search Commands: search-commands.md
+      - Setting Commands: setting-commands.md
+  - AutoMod: automod.md
+  - About: about.md
+
+# Theme
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    scheme: 'slate'
+    primary: 'purple'
+    accent: 'light purple'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+# Site Info
+# repo_url: https://github.com/ErisMB
+# repo_name: Eris on GitHub
+site_description: Documentation for the Discord moderation bot Eris
+site_author: Laarryy
+copyright: Cpoyright &copy; ErisMB
+
+# Plugins
+plugins:
+  - search
