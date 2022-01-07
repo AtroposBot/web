@@ -3,6 +3,7 @@ site_url: https://eris.laarryy.dev
 
 nav:
   - Home: index.md
+  - Setup: setup.md
   - Features: features.md
   - Commands:
       - General Commands: general-commands.md

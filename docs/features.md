@@ -32,6 +32,9 @@
 - Anti-Spam
     - Pings
     - Messages
+    - Nitro and Steam Scam Links
+    - De-Hoist
+    - Join Spam/Raid
  
 
 - Blacklist
