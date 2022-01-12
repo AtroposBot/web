@@ -4,7 +4,7 @@ boto3==1.18.49
 botocore==1.21.49
 click==8.0.1
 colorama==0.4.4
-dict-toolbox==2.0.1
+dict-toolbox==2.1.2
 ghp-import==2.0.2
 importlib-metadata==4.8.1
 Jinja2==3.0.1
@@ -19,7 +19,7 @@ mkdocs-material-extensions==1.0.3
 msgpack==1.0.2
 mysql-connector-python==8.0.23
 packaging==21.0
-pop-config==6.11.1
+pop-config==8.0.2
 Pygments==2.10.0
 pymdown-extensions==9.1
 pyparsing==2.4.7
