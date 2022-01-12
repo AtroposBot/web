@@ -4,7 +4,7 @@
 
     Command arguments surrounded by angle brackets `<>` are required. Arguments surrounded by square brackets `[]` are optional
 
-??? info "/ban <user> \[reason] \[duration] \[days] \[dm]"
+??? info "/ban <user\> \[reason] \[duration] \[days] \[dm]"
 
     This command will ban the user and log it for future reference, optionally notifying the user of the reason for their ban.    
 
@@ -20,7 +20,7 @@
 
     [dm] is a boolean to attempt to notify the user of their punishment. Defaults to true.
 
-??? info "/kick <user> \[reason] \[dm]"
+??? info "/kick <user\> \[reason] \[dm]"
 
     This command will kick the user and log it for future reference, optionally notifying the user of the reason for their kick.
     
@@ -30,7 +30,7 @@
 
     [dm] is a boolean to attempt to notify the user of their punishment. Defaults to true.
 
-??? info "/mute <user> \[reason] \[duration] \[dm]"
+??? info "/mute <user\> \[reason] \[duration] \[dm]"
 
     This command will mute the user by applying a 'muted' role to them, and logging it for future reference, optionally notifying the user of the reason for their mute.
     
@@ -45,7 +45,7 @@
     [dm] is a boolean to attempt to notify the user of their punishment. Defaults to true.
 
 
-??? info "/warn <user> \[reason] \[dm]"
+??? info "/warn <user\> \[reason] \[dm]"
 
     This command will warn the user and log it for future reference, optionally notifying the user of the reason for their warn.
     
@@ -56,7 +56,7 @@
     [dm] is a boolean to attempt to notify the user of their punishment. Defaults to true.
 
 
-??? info "/note <user> \[reason]"
+??? info "/note <user\> \[reason]"
 
     This command will log a note on the user for future reference, and will never notify the user.
     
