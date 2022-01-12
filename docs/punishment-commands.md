@@ -8,7 +8,7 @@
 
     This command will ban the user and log it for future reference, optionally notifying the user of the reason for their ban.    
 
-    \<user\> is a valid user. A mention or ID works and the user does not need to be in the server.
+    <user\> is a valid user. A mention or ID works and the user does not need to be in the server.
 
     [reason] is the optional punishment reason.
 
@@ -24,7 +24,7 @@
 
     This command will kick the user and log it for future reference, optionally notifying the user of the reason for their kick.
     
-    \<user\> is a valid user. A mention or ID works and the user needs to be in the server.
+    <user\> is a valid user. A mention or ID works and the user needs to be in the server.
 
     [reason] is the optional punishment reason.
 
@@ -34,7 +34,7 @@
 
     This command will mute the user by applying a 'muted' role to them, and logging it for future reference, optionally notifying the user of the reason for their mute.
     
-    \<user\> is a valid user. A mention or ID works and the user needs to be in the server.
+    <user\> is a valid user. A mention or ID works and the user needs to be in the server.
 
     [reason] is the optional punishment reason.
 
@@ -49,7 +49,7 @@
 
     This command will warn the user and log it for future reference, optionally notifying the user of the reason for their warn.
     
-    \<user\> is a valid user. A mention or ID works and the user needs to be in the server.
+    <user\> is a valid user. A mention or ID works and the user needs to be in the server.
 
     [reason] is the optional punishment reason.
 
@@ -60,7 +60,7 @@
 
     This command will log a note on the user for future reference, and will never notify the user.
     
-    \<user\> is a valid user. A mention or ID works and the user needs to be in the server.
+    <user\> is a valid user. A mention or ID works and the user needs to be in the server.
 
     [reason] is the optional punishment reason.
 
