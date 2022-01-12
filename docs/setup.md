@@ -33,8 +33,9 @@ Additionally, please set Eris' highest role to be above anyone it may need to
 punish in the role hierarchy. Eris will only allow users with punishment 
 permission to punish those lower than they are in the role hierarchy.
 
-!!! warning "Eris will not function as intended without having all required 
-permissions, so that there are no errors in executing commands."
+!!! warning "Eris will not function as intended without having all required permissions"
+
+    This is so that there are no errors in executing commands.
 
 ## Set ModMail Channel
 
