@@ -13,6 +13,8 @@ nav:
       - Setting Commands: setting-commands.md
   - AutoMod: automod.md
   - About: about.md
+  - Privacy Policy: privacy-policy.md
+  - Terms of Use: terms-of-use.md
 
 # Theme
 theme:
@@ -36,3 +38,8 @@ copyright: Cpoyright &copy; ErisMB
 # Plugins
 plugins:
   - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
