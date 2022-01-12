@@ -21,9 +21,18 @@ theme:
   name: 'material'
   language: 'en'
   palette:
-    scheme: 'slate'
-    primary: 'purple'
-    accent: 'light purple'
+    - scheme: 'default'
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: 'deep purple'
+      accent: 'indigo'
+    - scheme: 'slate'
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: 'deep purple'
+      accent: 'light blue'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
@@ -47,7 +56,7 @@ theme:
 # repo_name: Eris on GitHub
 site_description: Documentation for the Discord moderation bot Eris
 site_author: Laarryy
-copyright: Cpoyright &copy; ErisMB
+copyright: Copyright &copy; ErisMB
 
 # Plugins
 plugins:

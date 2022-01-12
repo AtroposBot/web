@@ -7,7 +7,7 @@
     - Kick
     - Mute
     - Warn
-    - Case
+    - Note
   
 
 - Raid Response
