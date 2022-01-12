@@ -2,7 +2,7 @@
 
 !!! tip "Arguments Legend"
 
-    Command arguments surrounded by angle brackets `<>` are required. Arguments surrounded by square brackets `[]` are optional. Pipes `|` mean ` OR `.
+    Command arguments surrounded by angle brackets `<>` are required. Pipes `|` mean ` OR `.
 
 ??? info "/prune <number\>"
 
@@ -19,6 +19,8 @@
     <type\> is whether to kick or ban recent joins.
 
     <duration\> is what how long ago to remove users that have joined
+    
+    > Duration format is `1mo2w3d4h5m` for 1 month, 2 weeks, 3 days, 4 hours, 5 minutes.
 
 ??? info "/stopjoins <enable|disable\>"
 
