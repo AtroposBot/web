@@ -9,7 +9,7 @@
 ## The Bot
 
 - Written in Java using Discord4J
-- Named after Atropos, the Greek goddess of discord
+- Named after Atropos, the Greek Fate of death
 - Definitely not run by a volunteer team of gnomes
 
 ### Why?
