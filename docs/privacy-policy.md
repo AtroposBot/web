@@ -1,9 +1,9 @@
 # Privacy Policy
 
-## What data Eris collects
+## What data Atropos collects
 
-Eris collects various types of data that you make available in a server that it moderates. 
-As Eris is a moderation service, it needs to collect the following for the following reasons:
+Atropos collects various types of data that you make available in a server that it moderates. 
+As Atropos is a moderation service, it needs to collect the following for the following reasons:
 
 !!! info "User Account Information: **IDs, Usernames, Avatars, Nicknames**"
     
@@ -17,7 +17,7 @@ As Eris is a moderation service, it needs to collect the following for the follo
 !!! note "Messages"
 
     For auto-moderation and records purposes. Anti-scam, content blacklisting, and logging deleted messages beyond the 
-    lifespan that a cache can provide all require that Eris stores and analyzes the content of messages.
+    lifespan that a cache can provide all require that Atropos stores and analyzes the content of messages.
     
     Messages are stored *at most* for 30 days, and then are permanently deleted. 
 
@@ -29,10 +29,10 @@ As Eris is a moderation service, it needs to collect the following for the follo
 
 ## Data Sharing
 
-Data collected by Eris is not shared with any third party. The only way to access stored 
+Data collected by Atropos is not shared with any third party. The only way to access stored 
 sensitive content such as recent message content is through the logging function; there is no
-way to search through a user's stored message history as recorded by Eris, and it cannot be
-accessed by anyone within or outside the guild except by Eris at the time of logging. Any data 
+way to search through a user's stored message history as recorded by Atropos, and it cannot be
+accessed by anyone within or outside the guild except by Atropos at the time of logging. Any data 
 voluntarily recorded by moderators of a guild, such as punishments, can be accessed only by those who
 have the appropriate permissions within that guild. Data collected with this bot may be stored 
 off-platform for the purposes of maintaining the operation of the service, such as in 
@@ -40,10 +40,10 @@ an encrypted database.
 
 ## Contact
 
-If you have concerns about Eris, you can contact the developer via email at hey@laarryy.dev
+If you have concerns about Atropos, you can contact the developer via email at hey@laarryy.dev
 
 ## Data Removal
 
-For immediate removal of all of a guild's or user's data from Eris' records, use
+For immediate removal of all of a guild's or user's data from Atropos' records, use
 the provided slash commands (`/wipe`). Should the bot be down or the command not function, you 
 may also use the contact information provided above.

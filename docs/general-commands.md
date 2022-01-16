@@ -1,5 +1,9 @@
 # General Commands
 
+!!! tip "Arguments Legend"
+
+    Command arguments surrounded by angle brackets `<>` are required.
+
 ## Info
 
 ??? info "/info server"
@@ -8,7 +12,7 @@
 
 ??? info "/info bot"
 
-    This command will display some information about Eris, including the number of punishments it has handled for your guild.
+    This command will display some information about Atropos, including the number of punishments it has handled for your guild.
 
 ??? info "/info user <mention\>"
 

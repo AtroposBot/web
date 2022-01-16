@@ -1,5 +1,5 @@
-site_name: Eris
-site_url: https://eris.laarryy.dev
+site_name: Atropos
+site_url: https://Atropos.laarryy.dev
 
 nav:
   - Home: index.md
@@ -38,11 +38,11 @@ theme:
     code: 'Roboto Mono'
 
 # Site Info
-# repo_url: https://github.com/ErisMB
-# repo_name: Eris on GitHub
-site_description: Documentation for the Discord moderation bot Eris
+# repo_url: https://github.com/AtroposBot
+# repo_name: Atropos on GitHub
+site_description: Documentation for the Discord moderation bot Atropos
 site_author: Laarryy
-copyright: Copyright &copy; ErisMB
+copyright: Copyright &copy; AtroposBot
 
 # Plugins
 plugins:

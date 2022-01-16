@@ -1,11 +1,11 @@
 # Setup
 
-Once Eris joins your guild, there are a few things you should take care of!
+Once Atropos joins your guild, there are a few things you should take care of!
 
 ## Grant Required Permissions
 
-If you try to use Eris without any permissions, you'll receive an embed 
-notifying you of the permissions Eris needs and why. The list is as follows: 
+If you try to use Atropos without any permissions, you'll receive an embed 
+notifying you of the permissions Atropos needs and why. The list is as follows: 
 
 ```diff
 + View Channels
@@ -29,11 +29,11 @@ notifying you of the permissions Eris needs and why. The list is as follows:
 --- I need this to mute people
 ```
 
-Additionally, please set Eris' highest role to be above anyone it may need to 
-punish in the role hierarchy. Eris will only allow users with punishment 
+Additionally, please set Atropos' highest role to be above anyone it may need to 
+punish in the role hierarchy. Atropos will only allow users with punishment 
 permission to punish those lower than they are in the role hierarchy.
 
-!!! warning "Eris will not function as intended without having all required permissions"
+!!! warning "Atropos will not function as intended without having all required permissions"
 
     This is so that there are no errors in executing commands.
 
@@ -41,8 +41,8 @@ permission to punish those lower than they are in the role hierarchy.
 
 Use `/settings modmail set` in your preferred internal staff channel. 
 This will not only enable the `/modmail` command for people in your server, 
-it will also tell Eris where to send system messages to mods. For example, if a 
-user is auto-muted due to a suspicious link, Eris will post it for review in 
+it will also tell Atropos where to send system messages to mods. For example, if a 
+user is auto-muted due to a suspicious link, Atropos will post it for review in 
 the mod mail channel.
 
 ## Set Logging Channels
@@ -59,7 +59,7 @@ Use `/settings antispam info` to see the default anti-spam values and use
 
 If you have a role you're already using as a 'muted' role, that prevents 
 certain actions like speaking and reacting in channels, use `/settings 
-mutedrole set <role>` to set it as the role Eris will apply to people when you 
-mute them using Eris. If you do not have one or would prefer Eris to 
+mutedrole set <role>` to set it as the role Atropos will apply to people when you 
+mute them using Atropos. If you do not have one or would prefer Atropos to 
 programmatically create one for all channels (voice and text), simply mute 
-someone and Eris will handle the rest.
+someone and Atropos will handle the rest.

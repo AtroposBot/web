@@ -2,7 +2,7 @@
 
 ## Usage Agreement
 
-By inviting Eris ("this bot", "the bot") to a server that you manage, you agree to these terms of use 
+By inviting Atropos ("this bot", "the bot") to a server that you manage, you agree to these terms of use 
 ("Terms") and the [privacy policy](privacy-policy.md). 
 
 You acknowledge that while you may freely invite this bot to any server that you have permissions
