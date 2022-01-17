@@ -7,7 +7,7 @@ Once Atropos joins your guild, there are a few things you should take care of!
 If you try to use Atropos without any permissions, you'll receive an embed 
 notifying you of the permissions Atropos needs and why. The list is as follows: 
 
-```diff
+ ```diff
 + View Channels
 + Manage Channels
 + Manage Roles
@@ -20,6 +20,10 @@ notifying you of the permissions Atropos needs and why. The list is as follows:
 + Ban Members
 --- I need these to kick and ban
 + Send Messages
++ Use Public Threads
++ Use Private Threads
++ Use Application Commands
+--- I need these so that I can deny them to muted users - that's how discord's permission system works.
 + Use External Emoji
 --- I need these to log and interact with mods
 + Manage Messages
