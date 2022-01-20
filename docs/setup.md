@@ -7,7 +7,7 @@ Once Atropos joins your guild, there are a few things you should take care of!
 If you try to use Atropos without any permissions, you'll receive an embed 
 notifying you of the permissions Atropos needs and why. The list is as follows: 
 
- ```diff
+```diff
 + View Channels
 + Manage Channels
 + Manage Roles
